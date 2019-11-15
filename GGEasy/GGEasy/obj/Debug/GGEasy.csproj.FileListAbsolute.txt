@@ -1,0 +1,10 @@
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\bin\Debug\GGEasy.exe.config
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\bin\Debug\GGEasy.exe
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\bin\Debug\GGEasy.pdb
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\obj\Debug\GGEasy.csprojAssemblyReference.cache
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\obj\Debug\GGEasy.Properties.Resources.resources
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\obj\Debug\GGEasy.csproj.GenerateResource.cache
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\obj\Debug\GGEasy.csproj.CoreCompileInputs.cache
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\obj\Debug\GGEasy.exe
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\obj\Debug\GGEasy.pdb
+C:\Users\jmmcclain600\source\repos\GGEasy\GGEasy\obj\Debug\GGEasy.Chapt9Prob3.resources
